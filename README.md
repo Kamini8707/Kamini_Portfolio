@@ -41,7 +41,7 @@ If you want to clone the repository and run the project locally, follow these st
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Kamini8707/Kamini_Portfolio.git](https://github.com/Kamini8707/Kamini_Portfolio.git)
+    git clone https://github.com/Kamini8707/Kamini_Portfolio.git
     cd Kamini_Portfolio
     ```
 
@@ -68,9 +68,4 @@ If you want to clone the repository and run the project locally, follow these st
 * **Tailwind:** The configuration is managed in `tailwind.config.js`, including custom animations (`keyframes`) and content paths: `"./src/**/*.{js,ts,jsx,tsx}"`.
 * **PostCSS:** The `postcss.config.js` is set up with ES Module syntax to correctly handle `tailwindcss` and `autoprefixer`.
 
-## 🤝 Contact
 
-Feel free to reach out for collaboration or just to connect!
-
-* **[LinkedIn Profile Link]**
-* **[Your Email Address]**
