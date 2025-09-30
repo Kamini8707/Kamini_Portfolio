@@ -1,16 +1,76 @@
-# React + Vite
+# 🌟 Kamini Prajapati | Full-Stack Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the personal portfolio website for Kamini Prajapati, built to showcase skills, projects, and professional experience in Full-Stack web development. The site is a fast, modern single-page application (SPA) built with cutting-edge front-end tools.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**View the deployed portfolio here:**
+[**(https://kamini-portfolio-rosy.vercel.app/)**]
 
-## React Compiler
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+This project is built using a modern and efficient development stack:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Category | Technology | Purpose |
+| :--- | :--- | :--- |
+| **Framework** | **React** | Building a fast, component-based user interface. |
+| **Build Tool** | **Vite** | Lightning-fast development server and optimized production build. |
+| **Styling** | **Tailwind CSS** | Utility-first CSS framework for rapid and responsive design. |
+| **Post-Processor** | **PostCSS & Autoprefixer** | Processing CSS, ensuring cross-browser compatibility, and optimizing Tailwind output. |
+| **Deployment** | **Vercel** | Continuous deployment and hosting with zero configuration. |
+
+## ✨ Features
+
+* **Responsive Design:** Fully responsive layout ensuring optimal viewing on all devices (mobile, tablet, desktop).
+* **Component-Based:** Modular React components for clean, scalable code.
+* **Typing Effect:** Engaging introductory text animation using `react-typing-effect`.
+* **Interactive Tilt:** Use of `react-parallax-tilt` for a modern, interactive touch on elements like the profile photo.
+* **Email Service:** Direct contact functionality integrated via EmailJS.
+
+## 📦 Local Development
+
+If you want to clone the repository and run the project locally, follow these steps.
+
+### Prerequisites
+
+* Node.js (LTS version 20+ recommended)
+* npm (or yarn/pnpm)
+
+### Setup
+
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/Kamini8707/Kamini_Portfolio.git](https://github.com/Kamini8707/Kamini_Portfolio.git)
+    cd Kamini_Portfolio
+    ```
+
+2.  **Install Dependencies:**
+    ```bash
+    npm install
+    # or yarn install
+    ```
+
+3.  **Run Development Server:**
+    ```bash
+    npm run dev
+    ```
+    The application will be available at `http://localhost:5173/` (or a similar port).
+
+4.  **Create a Production Build (Optional):**
+    ```bash
+    npm run build
+    npm run preview # To locally test the final optimized build
+    ```
+
+## 📜 Configuration Details
+
+* **Tailwind:** The configuration is managed in `tailwind.config.js`, including custom animations (`keyframes`) and content paths: `"./src/**/*.{js,ts,jsx,tsx}"`.
+* **PostCSS:** The `postcss.config.js` is set up with ES Module syntax to correctly handle `tailwindcss` and `autoprefixer`.
+
+## 🤝 Contact
+
+Feel free to reach out for collaboration or just to connect!
+
+* **[LinkedIn Profile Link]**
+* **[Your Email Address]**
