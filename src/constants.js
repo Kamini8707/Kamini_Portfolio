@@ -212,12 +212,13 @@ export const projects = [
     description:
       "A complete, responsive front-end clone of the Netflix landing page (India). The project was built using pure HTML and CSS to practice foundational web development skills, semantic structure, and modern responsive design techniques. It accurately replicates the hero section, feature blocks, the expandable FAQ section, and the footer.",
     image: netflixLogo,
-    tags: [ "HTML5",
-        "CSS3",
-        "Responsive Design",
-        "Flexbox",
-        "Grid",
-        "Front-End Clone",
+    tags: [
+      "HTML5",
+      "CSS3",
+      "Responsive Design",
+      "Flexbox",
+      "Grid",
+      "Front-End Clone",
     ],
     github: "https://github.com/Kamini8707/Netflix_Clone",
     webapp: "https://kamini8707.github.io/Netflix_Clone/",
@@ -240,6 +241,6 @@ export const projects = [
     image: tictactoeLogo,
     tags: ["HTML", "CSS", "JavaScript", "Game Development", "Animations"],
     github: "https://github.com/Kamini8707/Tic-Tac-Toe",
-    webapp: "https://kamini8707.github.io/Tic-Tac-Toe/",
+    webapp: "https://tictactoegamebykamini.netlify.app/",
   },
 ];
