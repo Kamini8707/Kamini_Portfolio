@@ -204,7 +204,7 @@ export const projects = [
       "Backtracking",
     ],
     github: "https://github.com/Kamini8707/N-Queen-Visualizer",
-    webapp: "https://kamini8707.github.io/N-Queen-Visualizer/",
+    webapp: "https://nqueenvisualizermadebykamini.netlify.app/",
   },
   {
     id: 2,
