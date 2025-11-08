@@ -231,7 +231,7 @@ export const projects = [
     image: hotelLogo,
     tags: ["React", "Vite", "Node.js", "Express", "REST API", "CSS"],
     github: "https://github.com/Kamini8707/hotel-reservation-app",
-    webapp: "https://hotel-reservation-app.netlify.app/",
+    webapp: "https://hotel-reservation-ap.netlify.app/",
   },
   {
     id: 4,
