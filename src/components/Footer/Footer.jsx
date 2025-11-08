@@ -54,10 +54,10 @@ const Footer = () => {
               icon: <SiGeeksforgeeks />,
               link: "https://www.geeksforgeeks.org/user/kaminipraj3k4m/",
             },
-            {
-              icon: <SiCodechef />,
-              link: "https://www.codechef.com/users/kamini8707",
-            },
+            // {
+            //   icon: <SiCodechef />,
+            //   link: "https://www.codechef.com/users/kamini8707",
+            // },
             {
               icon: <SiX />,
               link: "https://x.com/KaminiPraj29538",
