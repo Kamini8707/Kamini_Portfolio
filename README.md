@@ -22,7 +22,7 @@ This project is built using a modern and efficient development stack:
 
 ## ✨ Features
 
-* **Responsive Design:** Fully responsive layout ensuring optimal viewing on all devices (mobile, tablet, desktop).
+* **Responsive Design:** Fully responsive layout ensuring optimal viewing on all devices (mobile, tablet, desktop,etc).
 * **Component-Based:** Modular React components for clean, scalable code.
 * **Typing Effect:** Engaging introductory text animation using `react-typing-effect`.
 * **Interactive Tilt:** Use of `react-parallax-tilt` for a modern, interactive touch on elements like the profile photo.
